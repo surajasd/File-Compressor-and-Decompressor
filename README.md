@@ -5,6 +5,7 @@ it,s system independent desktop based application
 ![compressor](https://user-images.githubusercontent.com/117879907/206918565-d01dd8d8-7dda-4222-a69a-aa261be2f3f8.png)
 
 
+
 you have to enter the file name that you want to as outputfile(compressed or decompressed)
 click on compress or dcompress that you want perfom 
 after the click there will open a file dialog to chosse file
